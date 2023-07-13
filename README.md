@@ -1,4 +1,4 @@
-# System Programming Project - Asynchronous Web Server
+# System Programming - Asynchronous Web Server
 
 This project is a system programming project implemented in Rust. It is an asynchronous web server that combines several principles covered in the Rustlings book.
 
